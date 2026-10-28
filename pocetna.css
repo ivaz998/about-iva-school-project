@@ -192,6 +192,12 @@ p {
   margin-bottom: 5px;
   font-size: 14px;
 }
+.profile-picture{
+  width: 100%;
+  max-width: 170px;
+  height: 150px;
+  border-radius: 100%;
+}
 .info-strip {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
